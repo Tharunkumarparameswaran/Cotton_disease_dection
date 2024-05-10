@@ -1,2 +1,4 @@
 # Cotton_disease_dection
-Cotton disease detection is a project that uses machine learning to identify and classify cotton diseases. The project uses a dataset of images of healthy and diseased cotton leaves to train a Machine learning model. The model is then able to identify diseases in new images with high accuracy. 
+# Overview
+Cotton disease detection is a project that uses machine learning to identify and classify cotton diseases. The project uses a dataset of images of healthy and diseased cotton leaves to train a Machine learning model. The model is then able to identify diseases in new images with high accuracy. This project has the potential to help farmers save money and time by preventing crop losses due to disease.
+ 
